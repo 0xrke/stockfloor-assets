@@ -1,0 +1,11 @@
+{
+  "name": "Harbor Roasters",
+  "symbol": "HRBR",
+  "description": "Demonstration launch of StockFloor, a token launchpad on Meteora's Dynamic Bonding Curve where half of every raise becomes a redeemable floor held in tokenized S&P 500 (SPYx). Any holder can burn HRBR at any time and receive their pro-rata share of that vault, minus a 2% exit fee that stays in the vault. Harbor Roasters is a fictional coffee roastery used to demonstrate the mechanism. It is not a real business, and this token is not an investment in one. The floor protects holders from zero while the vault holds SPYx and the program is unchanged; it does not protect against loss, and its value in USD moves with the underlying index.",
+  "image": "https://raw.githubusercontent.com/0xrke/stockfloor-assets/9aac08a26df413530ca34b59ccd8c6147f07b30c/harbor-roasters.png",
+  "external_url": "https://github.com/0xrke/stockfloor-assets",
+  "properties": {
+    "files": [{ "uri": "https://raw.githubusercontent.com/0xrke/stockfloor-assets/9aac08a26df413530ca34b59ccd8c6147f07b30c/harbor-roasters.png", "type": "image/png" }],
+    "category": "image"
+  }
+}
