@@ -1,0 +1,8 @@
+{
+  "name": "Arbor Press",
+  "symbol": "ARBOR",
+  "description": "A launch on StockFloor, where half of every raise is locked into a redeemable vault of tokenized S&P 500 (SPYx). Any holder can burn ARBOR at any time and receive their pro-rata share of that vault, minus a 2% exit fee that stays behind and raises the floor for everyone else. Arbor Press is a fictional letterpress shop used to demonstrate the mechanism; it is not a real business and this token is not an investment in one. The floor protects holders from zero while the vault holds SPYx and the program is unchanged. It does not protect against loss, and its value in USD moves with the underlying index.",
+  "image": "https://raw.githubusercontent.com/0xrke/stockfloor-assets/8cf6258d8613c70aa474eb51f4b0e6336875d113/arbor-press.png",
+  "external_url": "https://github.com/0xrke/stockfloor-assets",
+  "properties": { "files": [{ "uri": "https://raw.githubusercontent.com/0xrke/stockfloor-assets/8cf6258d8613c70aa474eb51f4b0e6336875d113/arbor-press.png", "type": "image/png" }], "category": "image" }
+}
